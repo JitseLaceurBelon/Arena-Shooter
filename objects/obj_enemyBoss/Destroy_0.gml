@@ -3,7 +3,7 @@ repeat(choose(5,8)) instance_create_layer(x,y,"lay_enemy",obj_fragment);
 with (instance_create_layer(x,y,"lay_splatter",obj_splatter)) image_angle = other.direction;
 
 //Increase player score
-global.myscore += 1;
+global.myscore += 5;
 
 // get to next room when score is high enough
 if (global.myscore = 20)  {

@@ -12,5 +12,3 @@ if (hit > 0) hit -= 0.05; else hit = 0;
 
 //Destroy if hp is less than or equal to 0
 if (hp <= 0) instance_destroy();
-
-if (spawning > 0) spawning--;
