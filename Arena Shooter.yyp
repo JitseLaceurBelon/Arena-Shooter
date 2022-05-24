@@ -5,6 +5,7 @@
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":1,},
     {"id":{"name":"room2","path":"rooms/room2/room2.yy",},"order":2,},
     {"id":{"name":"spr_bullet2","path":"sprites/spr_bullet2/spr_bullet2.yy",},"order":2,},
+    {"id":{"name":"spr_tilesetBrick","path":"sprites/spr_tilesetBrick/spr_tilesetBrick.yy",},"order":12,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":3,},
     {"id":{"name":"spr_enemy_flash","path":"sprites/spr_enemy_flash/spr_enemy_flash.yy",},"order":4,},
     {"id":{"name":"spr_enemy_fragment","path":"sprites/spr_enemy_fragment/spr_enemy_fragment.yy",},"order":5,},
